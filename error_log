@@ -1,0 +1,29 @@
+[25-Sep-2014 22:32:17 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/stallion/public_html/dev/dangercore/application/controllers/content.php on line 41
+[25-Sep-2014 22:32:22 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/stallion/public_html/dev/dangercore/application/controllers/content.php on line 41
+[25-Sep-2014 22:32:51 America/Los_Angeles] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/stallion/public_html/dev/dangercore/application/controllers/content.php on line 40
+[25-Sep-2014 22:32:53 America/Los_Angeles] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/stallion/public_html/dev/dangercore/application/controllers/content.php on line 40
+[25-Sep-2014 22:32:54 America/Los_Angeles] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/stallion/public_html/dev/dangercore/application/controllers/content.php on line 40
+[25-Sep-2014 22:32:55 America/Los_Angeles] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/stallion/public_html/dev/dangercore/application/controllers/content.php on line 40
+[25-Sep-2014 22:32:57 America/Los_Angeles] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ')' in /home/stallion/public_html/dev/dangercore/application/controllers/content.php on line 40
+[25-Sep-2014 22:49:08 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ';' in /home/stallion/public_html/dev/dangercore/application/views/content/index.php on line 16
+[25-Sep-2014 22:49:09 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ';' in /home/stallion/public_html/dev/dangercore/application/views/content/index.php on line 16
+[25-Sep-2014 22:49:22 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ';' in /home/stallion/public_html/dev/dangercore/application/views/content/index.php on line 16
+[25-Sep-2014 22:49:24 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ';' in /home/stallion/public_html/dev/dangercore/application/views/content/index.php on line 16
+[25-Sep-2014 22:49:25 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ';' in /home/stallion/public_html/dev/dangercore/application/views/content/index.php on line 16
+[25-Sep-2014 22:49:26 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ';' in /home/stallion/public_html/dev/dangercore/application/views/content/index.php on line 16
+[25-Sep-2014 22:49:26 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ';' in /home/stallion/public_html/dev/dangercore/application/views/content/index.php on line 16
+[25-Sep-2014 22:49:27 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ';' in /home/stallion/public_html/dev/dangercore/application/views/content/index.php on line 16
+[25-Sep-2014 22:49:53 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ';' in /home/stallion/public_html/dev/dangercore/application/views/content/index.php on line 16
+[25-Sep-2014 22:50:25 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ';' in /home/stallion/public_html/dev/dangercore/application/views/content/index.php on line 16
+[26-Sep-2014 06:44:06 America/Los_Angeles] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/stallion/public_html/dev/dangercore/application/controllers/content.php on line 36
+[26-Sep-2014 06:44:09 America/Los_Angeles] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/stallion/public_html/dev/dangercore/application/controllers/content.php on line 36
+[26-Sep-2014 06:44:10 America/Los_Angeles] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/stallion/public_html/dev/dangercore/application/controllers/content.php on line 36
+[26-Sep-2014 06:44:13 America/Los_Angeles] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/stallion/public_html/dev/dangercore/application/controllers/content.php on line 36
+[26-Sep-2014 06:57:26 America/Los_Angeles] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/stallion/public_html/dev/dangercore/application/controllers/content.php on line 63
+[26-Sep-2014 06:57:29 America/Los_Angeles] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/stallion/public_html/dev/dangercore/application/controllers/content.php on line 63
+[26-Sep-2014 06:57:53 America/Los_Angeles] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/stallion/public_html/dev/dangercore/application/controllers/content.php on line 63
+[26-Sep-2014 07:13:40 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ';' in /home/stallion/public_html/dev/dangercore/application/models/content_model.php on line 71
+[26-Sep-2014 07:13:42 America/Los_Angeles] PHP Parse error:  syntax error, unexpected ';' in /home/stallion/public_html/dev/dangercore/application/models/content_model.php on line 71
+[26-Sep-2014 07:30:38 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/stallion/public_html/dev/dangercore/application/models/content_model.php on line 91
+[26-Sep-2014 07:30:40 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/stallion/public_html/dev/dangercore/application/models/content_model.php on line 91
+[26-Sep-2014 07:30:51 America/Los_Angeles] PHP Parse error:  syntax error, unexpected '}' in /home/stallion/public_html/dev/dangercore/application/models/content_model.php on line 91
